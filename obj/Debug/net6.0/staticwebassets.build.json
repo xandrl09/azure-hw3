@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "/a/V0Tv5x2btath+4OswtBDhksQXsfYfFUE/IpDr+3E=",
+  "Source": "hw3",
+  "BasePath": "_content/hw3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "hw3\\wwwroot",
+      "Source": "hw3",
+      "ContentRoot": "C:\\Users\\a\\Desktop\\hw3\\wwwroot\\",
+      "BasePath": "_content/hw3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\a\\Desktop\\hw3\\wwwroot\\favicon.ico",
+      "SourceId": "hw3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a\\Desktop\\hw3\\wwwroot\\",
+      "BasePath": "_content/hw3",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\a\\Desktop\\hw3\\wwwroot\\icon.png",
+      "SourceId": "hw3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a\\Desktop\\hw3\\wwwroot\\",
+      "BasePath": "_content/hw3",
+      "RelativePath": "icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon.png"
+    }
+  ]
+}
